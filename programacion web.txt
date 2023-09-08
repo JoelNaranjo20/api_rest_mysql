@@ -1,0 +1,10 @@
+estructura HTML
+Modulo Flask
+decoradores
+para que sirven las doblaes llaves
+MYsql (cursor, execute, commit, fetchall)
+request
+
+___________________---
+Backend
+lecturas bases de datos, rutas
